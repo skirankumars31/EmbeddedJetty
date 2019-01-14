@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Jetty" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.per.App" />
+    <module name="EmbeddedJetty" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
